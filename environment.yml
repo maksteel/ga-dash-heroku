@@ -4,4 +4,6 @@ dependencies:
   - pip:
     - dash
     - plotly
+    - plotly_express
+    - pandas
     - gunicorn # for app deployment
