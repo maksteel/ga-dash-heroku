@@ -6,4 +6,5 @@ dependencies:
     - plotly
     - plotly_express
     - pandas
+    - openpyxl
     - gunicorn # for app deployment
