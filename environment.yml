@@ -1,0 +1,7 @@
+name: ga-dash-heroku 
+dependencies:
+  - python=3
+  - pip:
+    - dash
+    - plotly
+    - gunicorn # for app deployment
